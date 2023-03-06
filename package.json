@@ -1,0 +1,25 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "main": "alien.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellinor/finaln.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nellinor/finaln/issues"
+  },
+  "homepage": "https://github.com/nellinor/finaln#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1"
+  },
+  "description": ""
+}
